@@ -10,7 +10,7 @@ dependencies that were used in the backend:
 
 ## Project execution
 
-We need to have [node](https://nodejs.org/en) installed on our computer
+We need to have [node](https://nodejs.org/en) installed on our computer and rename .env.example to .env
 
 Run this command first to initialize the database.
 
